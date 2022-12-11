@@ -16,6 +16,18 @@ Huiping Zhuang received the B.S. and the M.Eng. degrees from South China Univers
 
 **[2022 Sept]** Our paper on __class incremental learning__ is accepted in NeurIPS 2022.
 
+**[2022]** I am recognized as __Top 10\% Reviewer__ in ICML 2022.
+
+**[2021 Sept]** Our paper on __model parallelism is accepted in ICML 2021.
+
+**[2022 Sept]** Our paper on __time series anomaly detection__ is accepted in ICASSP 2022.
+
+**[2021 Mar]** Our paper on __model parallelism is accepted in TNNLS.
+
+**[2021 Mar]** Our paper on __analytic learning__ is accepted in TSMC-A.
+
+**[2021 Mar]** Our paper on __analytic learning__ is accepted in Neural Process Lett .
+
 
 
 Getting started
