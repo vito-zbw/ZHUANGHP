@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Huiping Zhuang"
   avatar           : "profile.png"
-  bio              : "Associate Professor"
+  bio              : "Research Scientist"
   location         : "Guangzhou China"
   employer         : "South China University of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.sg/citations?user=vCXxuLkAAAAJ&hl=en"
-  email            :
+  email            : "hpzhuangATscut_edu_cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
