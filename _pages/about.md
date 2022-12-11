@@ -16,6 +16,8 @@ Huiping Zhuang received the B.S. and the M.Eng. degrees from South China Univers
 
 **[2022]** Our paper on __class incremental learning__ is accepted in NeurIPS 2022.
 
+**[2022]** I become an Associate Professor in South China University of Technology.
+
 **[2022]** Invited as __Session Chair__ from ICML 2022.
 
 **[2022]** I am recognized as __Top Reviewers__ in ICML 2022.
