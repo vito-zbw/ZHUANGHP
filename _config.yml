@@ -87,7 +87,7 @@ author:
   employer         : "South China University of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.sg/citations?user=vCXxuLkAAAAJ&hl=en"
-  email:hpzhuangATscut_edu_cn           : ""
+  email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -181,12 +181,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+  #portfolio:
+    #output: true
+    #permalink: /:collection/:path/
+  #talks:
+    #output: false
+    #permalink: /:collection/:path/
 
 
 # Defaults
