@@ -20,7 +20,7 @@ Huiping Zhuang received the B.S. and the M.Eng. degrees from South China Univers
 
 **[2022]** Our paper on __time series anomaly detection__ is accepted in ICASSP 2022.
 
-**[2021]** Our paper on __model parallelism is accepted in ICML 2021.
+**[2021]** Our paper on __model parallelism__ is accepted in ICML 2021.
 
 **[2021]** Our paper on __model parallelism__ is accepted in TNNLS.
 
