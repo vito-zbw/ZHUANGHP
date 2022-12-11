@@ -12,9 +12,9 @@ Huiping Zhuang received the B.S. and the M.Eng. degrees from South China Univers
 
 [News]
 ======
-**[2022]** Our paper on __online multi-face tracking__ is accepted in TCSVT.
+**[2022]** Our paper on __Online Multi-object Tracking__ is accepted in TCSVT.
 
-**[2022]** Our paper on __class incremental learning__ is accepted in NeurIPS 2022.
+**[2022]** Our paper on __Continue Learning__ is accepted in NeurIPS 2022.
 
 **[2022]** I become an Associate Professor in South China University of Technology.
 
@@ -22,17 +22,17 @@ Huiping Zhuang received the B.S. and the M.Eng. degrees from South China Univers
 
 **[2022]** I am recognized as __Top Reviewers__ in ICML 2022.
 
-**[2022]** Our paper on __time series anomaly detection__ is accepted in ICASSP 2022.
+**[2022]** Our paper on __Time Series Anomaly Detection__ is accepted in ICASSP 2022.
 
-**[2021]** Our paper on __model parallelism__ is accepted in ICML 2021.
+**[2021]** Our paper on __Model Parallelism__ is accepted in ICML 2021.
 
-**[2021]** Our paper on __model parallelism__ is accepted in TNNLS.
+**[2021]** Our paper on __Model Parallelism__ is accepted in TNNLS.
 
-**[2021]** Our paper on __analytic learning__ is accepted in TSMC-A.
+**[2021]** Our paper on __Analytic Learning__ is accepted in TSMC-A.
 
-**[2021]** Our paper on __analytic learning__ is accepted in Neural Process Lett .
+**[2021]** Our paper on __Analytic Learning__ is accepted in Neural Process Lett .
 
-**[2020]** Our paper on __analytic learning__ is accepted in IJCNN 2020.
+**[2020]** Our paper on __Analytic Learning__ is accepted in IJCNN 2020.
 
 
 
