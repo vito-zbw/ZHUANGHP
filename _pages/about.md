@@ -12,10 +12,10 @@ Huiping Zhuang received the B.S. and the M.Eng. degrees from South China Univers
 
 [News]
 ======
-**2022** Our paper regarding __class incremental learning__ is accepted in NeurIPS 2022.
-**2022** Our paper regarding __class incremental learning__ is accepted in NeurIPS 2022.
+**[2022 Nov]** Our paper on __online multi-face tracking__ is accepted in TCSVT.
 
-**2022** Our paper regarding __class incremental learning__ is accepted in NeurIPS 2022.
+**[2022 Sept]** Our paper on __class incremental learning__ is accepted in NeurIPS 2022.
+
 
 
 Getting started
