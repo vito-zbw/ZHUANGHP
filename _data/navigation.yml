@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Students"
+    url: /student/
 
   - title: "Teaching"
     url: /teaching/    
@@ -12,11 +12,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Join Us"
     url: /year-archive/
     
-  - title: "Students"
-    url: /student/
+
     
-  - title: "Guide"
-    url: /markdown/
