@@ -16,11 +16,11 @@ I am currently an Associate Professor with the Shien-Ming Wu School of Intellige
 
 **[2022]** Our paper on __Continue Learning__ is accepted in NeurIPS 2022.
 
-**[2022]** I become an __Associate Professor__ in South China University of Technology.
-
 **[2022]** Invited as __Session Chair__ from ICML 2022.
 
 **[2022]** I am recognized as __Top Reviewers__ in ICML 2022.
+
+**[2022]** I become an __Associate Professor__ in South China University of Technology.
 
 **[2022]** Our paper on __Time Series Anomaly Detection__ is accepted in ICASSP 2022.
 
