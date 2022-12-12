@@ -4,15 +4,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+$^\dagger$: Corresponding author.
+
 **[2022]**
 ===
 **Huiping Zhuang**, Zhenyu Weng, Hongxin Wei, Renchunzi Xie, Kar-Ann Toh, Zhiping Lin"ACIL: Analytic Class-Incremental Learning with Absolute Memorization and Privacy Protection", Thirty-Sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.
 
 Weng, Zhenyu, **Huiping Zhuang**, Haizhou Li, Balakrishnan Ramalingam, Rajesh Elara Mohan, and Zhiping Lin. "Online Multi-Face Tracking With Multi-Modality Cascaded Matching." IEEE Transactions on Circuits and Systems for Video Technology (2022).
 
-Man, Siu Shing, Yingqian Guo, Alan Hoi Shou Chan, and **Huiping Zhuang** (corresponding author). "Acceptance of Online Mapping Technology among Older Adults: Technology Acceptance Model with Facilitating Condition, Compatibility, and Self-Satisfaction." ISPRS International Journal of Geo-Information 11, no. 11 (2022): 558.
+Man, Siu Shing, Yingqian Guo, Alan Hoi Shou Chan, and **Huiping Zhuang$^\dagger$**. "Acceptance of Online Mapping Technology among Older Adults: Technology Acceptance Model with Facilitating Condition, Compatibility, and Self-Satisfaction." ISPRS International Journal of Geo-Information 11, no. 11 (2022): 558.
 
-Li, Hanhui, Xinggan Peng, **Huiping Zhuang** (corresponding author), and Zhiping Lin. "Multiple Temporal Context Embedding Networks for Unsupervised time Series Anomaly Detection." In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3438-3442. IEEE, 2022.
+Li, Hanhui, Xinggan Peng, **Huiping Zhuang$^\dagger$**, and Zhiping Lin. "Multiple Temporal Context Embedding Networks for Unsupervised time Series Anomaly Detection." In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3438-3442. IEEE, 2022.
 
 [2021]
 ===
