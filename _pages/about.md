@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Huiping Zhuang received the B.S. and the M.Eng. degrees from South China University of Technology, Guangzhou, China, in 2014 and 2017, respectively, and the Ph.D. degree from Nanyang Technological University, Singapore, in 2021. He is currently an Associate Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, Guangzhou, China. His research interests include, Machine Learning, Deep Learning, Continue Learning, Signal Processing, Anomaly Detection and Distributed Learning.
+I am currently an Associate Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, Guangzhou, China.  I received the B.S. and the M.Eng. degrees from South China University of Technology, Guangzhou, China, in 2014 and 2017, respectively, and the Ph.D. degree from Nanyang Technological University, Singapore, in 2021. My research interests include, Machine Learning, Deep Learning, Continue Learning, Signal Processing, Anomaly Detection and Distributed Learning.
 
 [News]
 ======
