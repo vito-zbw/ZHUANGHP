@@ -6,6 +6,13 @@ author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
+PhDs:
+===
+
+Masters:
+===
+
+
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
