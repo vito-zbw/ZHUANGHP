@@ -16,7 +16,7 @@ Man, Siu Shing, Yingqian Guo, Alan Hoi Shou Chan, and **Huiping Zhuang$^\dagger$
 
 Li, Hanhui, Xinggan Peng, **Huiping Zhuang$^\dagger$**, and Zhiping Lin. "Multiple Temporal Context Embedding Networks for Unsupervised time Series Anomaly Detection." In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3438-3442. IEEE, 2022.
 
-X. Peng, Y. Lin, Q. Cao, Y. Cen, H. Zhuang and Z. Lin, "Traffic Anomaly Detection in Intelligent Transport Applications with Time Series Data using Informer," 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC), 2022, pp. 3309-3314, doi: 10.1109/ITSC55140.2022.9922142.
+X. Peng, Y. Lin, Q. Cao, Y. Cen, **H. Zhuang** and Z. Lin, "Traffic Anomaly Detection in Intelligent Transport Applications with Time Series Data using Informer," 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC), 2022, pp. 3309-3314, doi: 10.1109/ITSC55140.2022.9922142.
 
 [2021]
 ===
