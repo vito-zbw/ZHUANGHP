@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 $^\dagger$: Corresponding author.
+**[2023]**
+===
+Huiping. Zhuang, Zhenyu. Weng, Run. He, Zhiping. Lin, Ziqian. Zeng. " GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-shot Class Incremental Task", In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023.
 
 **[2022]**
 ===
