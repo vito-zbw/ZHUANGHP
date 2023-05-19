@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 $^\dagger$: Corresponding author.
+
 **[2023]**
 ===
-Huiping. Zhuang, Zhenyu. Weng, Run. He, Zhiping. Lin, Ziqian. Zeng. " GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-shot Class Incremental Task", In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023.
+**Huiping. Zhuang**, Zhenyu. Weng, Run. He, Zhiping. Lin, Ziqian. Zeng. " GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-shot Class Incremental Task", In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023.
+Zhou, Hao, Fulin Luo, **Huiping Zhuang**, Zhenyu Weng, Xiuwen Gong, and Zhiping Lin. "Attention Multi-hop Graph and Multi-scale Convolutional Fusion Network for Hyperspectral Image Classification." IEEE Transactions on Geoscience and Remote Sensing (2023).
 
 **[2022]**
 ===
