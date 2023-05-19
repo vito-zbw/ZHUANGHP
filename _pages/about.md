@@ -12,9 +12,9 @@ I am currently an Associate Professor with the Shien-Ming Wu School of Intellige
 
 [News]
 ======
-**[2022]** Our paper on __Hyperspectral Imaging__ is accepted in TGRS.
+**[2023]** Our paper on __Hyperspectral Imaging__ is accepted in TGRS.
 
-**[2022]** Our paper on __Continue Learning__ is accepted in CVPR 2023.
+**[2023]** Our paper on __Continue Learning__ is accepted in CVPR 2023.
 
 **[2022]** Our paper on __Online Multi-object Tracking__ is accepted in TCSVT.
 
