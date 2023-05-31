@@ -12,6 +12,8 @@ I am currently an Associate Professor with the Shien-Ming Wu School of Intellige
 
 [News]
 ======
+**[2023]** Our paper on __Noisy Labels__ is accepted in ICML 2023.
+
 **[2023]** Our paper on __Hyperspectral Imaging__ is accepted in TGRS.
 
 **[2023]** Our paper on __Continue Learning__ is accepted in CVPR 2023.
