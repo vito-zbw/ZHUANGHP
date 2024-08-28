@@ -6,8 +6,22 @@ author_profile: true
 ---
 $^\dagger$: Corresponding author.
 
+**[2024]**
+===
+X. Yue, X. Zhang, Y. Chen, C. Zhang, M. Lao, **H. Zhuang**, X. Qian, and H. Li, “MMAL: Multi-Modal Analytic Learning for Exemplar-Free Audio-Visual Class Incremental Tasks,” In ACM Multimedia 2024.
+
+**H. Zhuang**, R. He, K. Tong, Z. Zeng, C. Chen, and Z. Lin, “DS-AL: A Dual-Stream Analytic Learning for Exemplar-Free Class-Incremental Learning”, AAAI, vol. 38, no. 15, pp. 17237-17244, Mar. 2024.
+
+Z. Zeng, Y. Hong, H. Dai, **H. Zhuang**, and C. Chen, “ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference”, AAAI, vol. 38, no. 17, pp. 19506-19514, Mar. 2024.
+
+C. Chen, S. Xie, J. Liu, Z. Cheng, Z. Zeng and **H. Zhuang**, "Efficient Point Cloud Video Recognition via Spatio-Temporal Pruning for MEC-Based Consumer Applications," in IEEE Transactions on Consumer Electronics, vol. 70, no. 1, pp. 4108-4119, Feb. 2024, doi: 10.1109/TCE.2024.3364677.
+
 **[2023]**
 ===
+Z. Weng, **H. Zhuang**, F. Luo, H. Li and Z. Lin, "Few-Shot Contrastive Transfer Learning With Pretrained Model for Masked Face Verification," in IEEE Transactions on Multimedia, vol. 26, pp. 3871-3883, 2024, doi: 10.1109/TMM.2023.3316920. 
+
+Hongxin Wei, **Huiping Zhuang**, Renchunzi Xie, Lei Feng, Gang Niu, Bo An, Yixuan Li. "Mitigating Memorization of Noisy Labels by Clipping the Model Prediction" International Conference of Machine Learning 2023
+
 **Huiping. Zhuang**, Zhenyu. Weng, Run. He, Zhiping. Lin, Ziqian. Zeng. " GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-shot Class Incremental Task", In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023.
 
 Zhou, Hao, Fulin Luo, **Huiping Zhuang**, Zhenyu Weng, Xiuwen Gong, and Zhiping Lin. "Attention Multi-hop Graph and Multi-scale Convolutional Fusion Network for Hyperspectral Image Classification." IEEE Transactions on Geoscience and Remote Sensing (2023).
