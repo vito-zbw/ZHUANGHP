@@ -8,6 +8,12 @@ $^\dagger$: Corresponding author.
 
 **[2024]**
 ===
+**Huiping Zhuang**, Yizhu Chen, Di Fang, Run He, Kai Tong, Hongxin Wei, Zigian Zeng, Cen Chen”GACL: Exemplar-Free Generalized Analytic Continual Learning”, Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS) 2024.
+
+**Huiping Zhuang**, Yuchen Liu, Di Fang, Run He, Kai Tong, Zigian Zeng, Cen Chen, Yi Wang, Lap-Pui Chau”F-OAL: Foward-only Online Analytic Learning with Fast Training and Low Memory Footprint in Class Incremental Learning”, Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS) 2024.
+
+Yicheng Xu, Yuxin Chen, Jiahao Nie, Yusong Wang, **Huiping Zhuang**, Manabu Okumura”Advancing Cross-domain Discriminability in Continual Learning of Vison-Language Models”, Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS) 2024.
+
 X. Yue, X. Zhang, Y. Chen, C. Zhang, M. Lao, **H. Zhuang**, X. Qian, and H. Li, “MMAL: Multi-Modal Analytic Learning for Exemplar-Free Audio-Visual Class Incremental Tasks,” In ACM Multimedia 2024.
 
 **H. Zhuang**, R. He, K. Tong, Z. Zeng, C. Chen, and Z. Lin, “DS-AL: A Dual-Stream Analytic Learning for Exemplar-Free Class-Incremental Learning”, AAAI, vol. 38, no. 15, pp. 17237-17244, Mar. 2024.
