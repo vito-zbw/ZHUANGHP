@@ -10,7 +10,7 @@ $^\dagger$: Corresponding author.
 ===
 **Huiping Zhuang**, Yizhu Chen, Di Fang, Run He, Kai Tong, Hongxin Wei, Zigian Zeng, Cen Chen”GACL: Exemplar-Free Generalized Analytic Continual Learning”, Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS) 2024.
 
-**Huiping Zhuang**, Yuchen Liu, Di Fang, Run He, Kai Tong, Zigian Zeng, Cen Chen, Yi Wang, Lap-Pui Chau”F-OAL: Foward-only Online Analytic Learning with Fast Training and Low Memory Footprint in Class Incremental Learning”, Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS) 2024.
+**Huiping Zhuang**, Yuchen Liu, Run He, Kai Tong, Zigian Zeng, Cen Chen, Yi Wang, Lap-Pui Chau”F-OAL: Foward-only Online Analytic Learning with Fast Training and Low Memory Footprint in Class Incremental Learning”, Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS) 2024.
 
 Yicheng Xu, Yuxin Chen, Jiahao Nie, Yusong Wang, **Huiping Zhuang**, Manabu Okumura”Advancing Cross-domain Discriminability in Continual Learning of Vison-Language Models”, Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS) 2024.
 
