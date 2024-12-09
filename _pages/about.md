@@ -15,11 +15,7 @@ Our lab, the Machine Intelligence and Advanced Adaptation Lab (MIAA), welcomes m
 
 [News]
 ======
-**[2024]** Our paper on __Continual Learning__ is accepted in NeurIPS 2024
-
-**[2024]** Our paper on __Continual Learning__ is accepted in NeurIPS 2024
-
-**[2024]** Our paper on __Continual Learning__ is accepted in NeurIPS 2024
+**[2024]** We have 3 papers on __Continual Learning__ accepted in NeurIPS 2024
 
 **[2024]** Our paper on __Continual Learning__ is accepted in ACMMM 2024
 
